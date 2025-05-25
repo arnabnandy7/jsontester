@@ -1,3 +1,5 @@
 # jsontester
 
-<!-- GitAds-Verify: V8U2RHH7AXGOTI2J7ZE2UW8B5Y26YVBJ -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/jsontester@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/jsontester@github)
+
